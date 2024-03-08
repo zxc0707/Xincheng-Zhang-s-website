@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+This website contains the CV of the founder Xincheng Zhang and a description of the entire website, including the company name, company goals, etc.
+
+
+[My bio](biodylan.pdf)
+[My CV](cvdylan.pdf)
